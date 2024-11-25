@@ -54,7 +54,7 @@ sehingga mempercepat proses seleksi dan menurunkan biaya evaluasi.
    - Rata-rata skor pelatihan masih rendah (63,39), menunjukkan perlunya peningkatan kualitas pelatihan.
 
 2. **Jumlah Pelatihan vs. Efektivitas**:
-   - Karyawan dengan lebih banyak pelatihan memiliki tingkat promosi lebih rendah. Hanya 9% karyawan dengan satu pelatihan yang dipromosikan.
+   - Karyawan dengan lebih banyak pelatihan memiliki tingkat promosi lebih rendah. Karyawan dengan hanya satu kali pelatihan, yang memiliki proporsi promosi paling besar yaitu 9%.
 
 3. **Penilaian Tahun Sebelumnya**:
    - Skor evaluasi sebelumnya berperan signifikan dalam peluang promosi, dengan korelasi positif terhadap tingkat promosi.
