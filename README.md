@@ -40,8 +40,11 @@ Rekomendasi model akan membantu tim HR memfokuskan sumber daya pada kandidat ber
 sehingga mempercepat proses seleksi dan menurunkan biaya evaluasi.
 
 **Proses Implementasi**:
+
 1️⃣ Tahap uji coba untuk memastikan akurasi model sebelum adopsi penuh.
+
 2️⃣ Integrasi model ke sistem HR untuk mendukung analisis prediktif secara langsung.
+
 3️⃣ Analisis dampak implementasi terhadap efisiensi waktu, biaya, dan kepuasan karyawan.
      
 💡 **Insight dari Analisis EDA**
