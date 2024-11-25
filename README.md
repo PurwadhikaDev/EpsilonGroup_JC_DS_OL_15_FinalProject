@@ -16,6 +16,7 @@ menyaring kandidat potensial secara efisien, meminimalkan biaya evaluasi, dan me
 🎯 **Tujuan Proyek**
 --------------------
 1️⃣ **Mengidentifikasi Faktor-Faktor Utama** yang memengaruhi kelayakan promosi karyawan.
+
 2️⃣ **Mengembangkan Model Prediksi yang Akurat** untuk membantu perusahaan menyaring kandidat promosi 
     dengan efisiensi tinggi dalam waktu dan biaya.
 
