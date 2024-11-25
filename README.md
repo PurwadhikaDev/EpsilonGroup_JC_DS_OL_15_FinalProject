@@ -111,3 +111,7 @@ Selain itu, pendekatan berbasis data ini memberikan wawasan baru untuk meningkat
 5. **Dampak Promosi terhadap Turnover Rate**:
    - Lakukan analisis mendalam tentang hubungan promosi dan turnover untuk memahami kerugian potensial jika karyawan layak promosi tidak terdeteksi.
 
+📌 Link Tableau
+-------------------------------------
+https://public.tableau.com/views/PurwadhikaEPSILON/HRDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
