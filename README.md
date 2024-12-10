@@ -117,4 +117,8 @@ https://public.tableau.com/views/PurwadhikaEPSILON/HRDashboard?:language=en-US&:
 
 ![image](https://github.com/user-attachments/assets/2637b723-cb73-4514-b581-5875d7614b7a)
 
+📌 Link Streamlit
+-------------------------------------
+link github file streamlit : https://github.com/sofyansalim/st-hr-analisis
 
+link public streamlit : https://finalprojectepsilon.streamlit.app/ 
